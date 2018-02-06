@@ -1,0 +1,28 @@
+
+html,
+body {
+  background: #f2f5f6;
+  padding: 10px;
+  font-family: 'Varela Round';
+}
+
+.head{
+	background: none;
+	padding:35px;
+}
+
+a {
+  color: #aaaaaa;
+  transition: all ease-in-out 200ms;
+}
+a:hover {
+  color: #333333;
+  text-decoration: none;
+}
+.etc-login-form {
+  color: #919191;
+  padding: 10px 20px;
+}
+.etc-login-form p {
+  margin-bottom: 5px;
+}
