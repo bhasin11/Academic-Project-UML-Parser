@@ -1,0 +1,36 @@
+@CHARSET "UTF-8";
+
+
+body{
+	background-color: #f2f5f6;
+	background-image: url("1.jpg");
+	color: white;
+}
+
+.back{
+	width: 100%;
+	z-index: -100;
+	position: absolute;
+}
+
+.head{
+	background: none;
+	padding:35px;
+}
+
+.banner{
+	font-size: 45px;
+	margin-top: 90px;
+}
+
+.nv{
+	background-color: black!Important;
+	margin:0!Important;
+	padding: 0!Important;
+	height: 70px!Important;
+}
+
+.wh{
+	color: white!Important;
+}
+
